@@ -1,0 +1,363 @@
+{
+  "items": [
+    {
+      "description": "Open standards that let AI agents discover products, build carts, and complete payments across merchants.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UCP Specification",
+          "description": "Reference specification and documentation for UCP, released under Apache 2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:39:08Z",
+            "owner": "Universal-Commerce-Protocol",
+            "repo": "ucp",
+            "stars": 3298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AP2 Specification",
+          "description": "Reference specification and implementation for AP2, backed by 60+ payment partners.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T01:24:46Z",
+            "owner": "google-agentic-commerce",
+            "repo": "AP2",
+            "stars": 3144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACP Specification",
+          "description": "Reference specification, schemas and product-feed spec for ACP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-18T04:51:51Z",
+            "owner": "agentic-commerce-protocol",
+            "repo": "agentic-commerce-protocol",
+            "stars": 1506
+          }
+        }
+      ],
+      "title": "Universal / Agentic Commerce Protocols"
+    },
+    {
+      "description": "Cross-platform MCP servers and AI tooling that connect commerce data and actions to LLM agents. 📚 Further reading.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stripe AI Toolkit",
+          "description": "Official Stripe tooling and MCP server for building AI-powered payment agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T22:18:30Z",
+            "owner": "stripe",
+            "repo": "ai",
+            "stars": 1738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PayPal Agent Toolkit",
+          "description": "Official PayPal toolkit for integrating commerce actions into AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T20:44:49Z",
+            "owner": "paypal",
+            "repo": "agent-toolkit",
+            "stars": 189
+          }
+        }
+      ],
+      "title": "AI & MCP Servers"
+    },
+    {
+      "description": "Everything for building on and selling with Shopify.",
+      "items": [],
+      "title": "Shopify"
+    },
+    {
+      "description": "📚 Further reading.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polaris",
+          "description": "Shopify's design system and React component library for admin apps.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T07:11:56Z",
+            "owner": "Shopify",
+            "repo": "polaris-react-archive",
+            "stars": 6175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopify CLI",
+          "description": "Command-line tool for building apps, themes and extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:55:36Z",
+            "owner": "Shopify",
+            "repo": "cli",
+            "stars": 729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopify Functions Examples",
+          "description": "Sample projects for building Shopify Functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-23T03:56:01Z",
+            "owner": "Shopify",
+            "repo": "function-examples",
+            "stars": 242
+          }
+        }
+      ],
+      "title": "Development Tools & CLI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dawn",
+          "description": "Shopify's reference Online Store 2.0 theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Liquid",
+            "last_commit": "2026-08-10T20:55:54Z",
+            "owner": "Shopify",
+            "repo": "dawn",
+            "stars": 3054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hydrogen",
+          "description": "Shopify's React framework for building custom headless storefronts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:48:58Z",
+            "owner": "Shopify",
+            "repo": "hydrogen",
+            "stars": 2088
+          }
+        }
+      ],
+      "title": "Themes & Storefront"
+    },
+    {
+      "description": "Everything for building and running a WooCommerce store on WordPress.",
+      "items": [],
+      "title": "WooCommerce & WordPress"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Medusa",
+          "description": "Composable, open-source commerce engine built with Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:36:37Z",
+            "owner": "medusajs",
+            "repo": "medusa",
+            "stars": 35756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bagisto",
+          "description": "Open-source Laravel ecommerce platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T14:20:18Z",
+            "owner": "bagisto",
+            "repo": "bagisto",
+            "stars": 27973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Saleor",
+          "description": "GraphQL-first, open-source ecommerce platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:33:06Z",
+            "owner": "saleor",
+            "repo": "saleor",
+            "stars": 23219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spree",
+          "description": "Open-source Ruby on Rails ecommerce platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T06:50:01Z",
+            "owner": "spree",
+            "repo": "spree",
+            "stars": 15616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vendure",
+          "description": "Headless open-source commerce framework for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:53:35Z",
+            "owner": "vendurehq",
+            "repo": "vendure",
+            "stars": 8324
+          }
+        }
+      ],
+      "title": "Other Platforms & Open-source Engines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Next.js Commerce",
+          "description": "High-performance headless commerce storefront starter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:06:36Z",
+            "owner": "vercel",
+            "repo": "commerce",
+            "stars": 14208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue Storefront (Alokai)",
+          "description": "Frontend platform for headless commerce.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-09T12:03:34Z",
+            "owner": "vuestorefront",
+            "repo": "vue-storefront",
+            "stars": 10940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Storefront UI",
+          "description": "Component library for building fast ecommerce storefronts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T10:55:48Z",
+            "owner": "vuestorefront",
+            "repo": "storefront-ui",
+            "stars": 2505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snipcart Next.js starter",
+          "description": "Add a shopping cart to any site with Snipcart and Next.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-09-04T11:31:29Z",
+            "owner": "snipcart",
+            "repo": "snipcart-nextjs",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "Headless & Storefront Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-mcp-servers",
+          "description": "A curated list of Model Context Protocol servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T03:09:55Z",
+            "owner": "punkpeye",
+            "repo": "awesome-mcp-servers",
+            "stars": 92190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-shopify",
+          "description": "A curated list of Shopify resources and open-source projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T00:34:27Z",
+            "owner": "julionc",
+            "repo": "awesome-shopify",
+            "stars": 1262
+          }
+        }
+      ],
+      "title": "Related Awesome Lists"
+    },
+    {
+      "description": "Contributions are welcome! Read the contribution guidelines first.\nListed here? Add the Mentioned in Awesome badge to your README.\nMaintained by the team at Mention Network, building AI visibility tools for ecommerce.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:56:08.064Z",
+    "original_repository": "MentionNetwork/awesome-agentic-commerce",
+    "original_repository_sha": "25cd829963feb8f81aa2e7af2012f3dc987ff4b2",
+    "enhanced_repository": "enhansome/enhansome-agentic-commerce",
+    "enhanced_repository_description": null,
+    "title": "Awesome Agentic Commerce with stars"
+  }
+}
