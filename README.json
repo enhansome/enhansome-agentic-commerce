@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T21:15:18Z",
             "owner": "Universal-Commerce-Protocol",
             "repo": "ucp",
-            "stars": 3303
+            "stars": 3304
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-15T00:21:09Z",
             "owner": "stripe",
             "repo": "ai",
-            "stars": 1747
+            "stars": 1748
           }
         },
         {
@@ -101,7 +101,7 @@
             "last_commit": "2026-08-11T07:11:56Z",
             "owner": "Shopify",
             "repo": "polaris-react-archive",
-            "stars": 6177
+            "stars": 6176
           }
         },
         {
@@ -112,7 +112,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T00:32:21Z",
+            "last_commit": "2026-08-16T00:35:34Z",
             "owner": "Shopify",
             "repo": "cli",
             "stars": 731
@@ -163,7 +163,7 @@
             "last_commit": "2026-08-14T17:28:03Z",
             "owner": "Shopify",
             "repo": "hydrogen",
-            "stars": 2089
+            "stars": 2090
           }
         }
       ],
@@ -185,10 +185,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T05:30:02Z",
+            "last_commit": "2026-08-15T19:33:52Z",
             "owner": "medusajs",
             "repo": "medusa",
-            "stars": 35819
+            "stars": 35851
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-08-14T15:29:35Z",
             "owner": "bagisto",
             "repo": "bagisto",
-            "stars": 27973
+            "stars": 27976
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-14T16:15:28Z",
             "owner": "saleor",
             "repo": "saleor",
-            "stars": 23223
+            "stars": 23229
           }
         },
         {
@@ -227,10 +227,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-15T05:44:28Z",
+            "last_commit": "2026-08-16T04:03:20Z",
             "owner": "spree",
             "repo": "spree",
-            "stars": 15621
+            "stars": 15623
           }
         },
         {
@@ -244,7 +244,7 @@
             "last_commit": "2026-08-14T18:24:34Z",
             "owner": "vendurehq",
             "repo": "vendure",
-            "stars": 8333
+            "stars": 8342
           }
         }
       ],
@@ -264,7 +264,7 @@
             "last_commit": "2026-08-13T01:06:36Z",
             "owner": "vercel",
             "repo": "commerce",
-            "stars": 14209
+            "stars": 14212
           }
         },
         {
@@ -278,7 +278,7 @@
             "last_commit": "2026-06-09T12:03:34Z",
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10941
+            "stars": 10942
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2026-07-24T10:55:48Z",
             "owner": "vuestorefront",
             "repo": "storefront-ui",
-            "stars": 2506
+            "stars": 2507
           }
         },
         {
@@ -326,7 +326,7 @@
             "last_commit": "2026-08-03T03:09:55Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92336
+            "stars": 92403
           }
         },
         {
@@ -353,7 +353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:50:23.969Z",
+    "last_updated": "2026-08-16T05:53:03.811Z",
     "original_repository": "MentionNetwork/awesome-agentic-commerce",
     "original_repository_sha": "25cd829963feb8f81aa2e7af2012f3dc987ff4b2",
     "enhanced_repository": "enhansome/enhansome-agentic-commerce",
