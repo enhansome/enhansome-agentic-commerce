@@ -51,9 +51,9 @@ Open standards that let AI agents discover products, build carts, and complete p
 | **AP2**  | Google + 60+ payment partners    | Proving a human authorized an agent's payment               | Cryptographically signed Mandates   | Payment layer complementing UCP/ACP |
 | **MCP**  | Anthropic (open standard)        | Connecting agents to tools and data                         | Client-server protocol              | Claude, ChatGPT and any MCP client  |
 
-* [UCP Specification](https://github.com/Universal-Commerce-Protocol/ucp) ⭐ 3,317 | 🐛 172 | 🌐 Python | 📅 2026-08-19 - Reference specification and documentation for UCP, released under Apache 2.0.
+* [UCP Specification](https://github.com/Universal-Commerce-Protocol/ucp) ⭐ 3,319 | 🐛 173 | 🌐 Python | 📅 2026-08-19 - Reference specification and documentation for UCP, released under Apache 2.0.
 * [AP2 Specification](https://github.com/google-agentic-commerce/AP2) ⭐ 3,145 | 🐛 143 | 🌐 Python | 📅 2026-06-17 - Reference specification and implementation for AP2, backed by 60+ payment partners.
-* [ACP Specification](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) ⭐ 1,513 | 🐛 135 | 🌐 JavaScript | 📅 2026-07-18 - Reference specification, schemas and product-feed spec for ACP.
+* [ACP Specification](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) ⭐ 1,513 | 🐛 136 | 🌐 JavaScript | 📅 2026-07-18 - Reference specification, schemas and product-feed spec for ACP.
 * [Universal Commerce Protocol (UCP)](https://ucp.dev) - Open standard from Google and Shopify (20+ partners) for agentic checkout, live in Google AI Mode and Gemini.
 * [Agent Payments Protocol (AP2)](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol) - Google's open protocol for secure agent-initiated payments.
 * [Model Context Protocol (MCP)](https://modelcontextprotocol.io) - Open standard for connecting AI assistants to tools, data and commerce actions.
@@ -72,7 +72,7 @@ Tools that test, score and validate whether a store is ready for AI shopping age
 
 Cross-platform MCP servers and AI tooling that connect commerce data and actions to LLM agents. 📚 [Further reading](articles/ai-and-mcp.md).
 
-* [Stripe AI Toolkit](https://github.com/stripe/ai) ⭐ 1,750 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-18 - Official Stripe tooling and MCP server for building AI-powered payment agents.
+* [Stripe AI Toolkit](https://github.com/stripe/ai) ⭐ 1,750 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-19 - Official Stripe tooling and MCP server for building AI-powered payment agents.
 * [PayPal Agent Toolkit](https://github.com/paypal/agent-toolkit) ⭐ 190 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-10 - Official PayPal toolkit for integrating commerce actions into AI agents.
 * [Stripe MCP Server](https://docs.stripe.com/mcp) - Official remote MCP server exposing Stripe payment operations to AI assistants.
 
@@ -115,7 +115,7 @@ Everything for building on and selling with Shopify.
 * [Rebuy](https://www.rebuyengine.com) - AI-powered personalization engine delivering upsells, cross-sells, smart carts and recommendations across the shopper journey.
 * [Recharge](https://rechargepayments.com) - Subscription management platform powering recurring orders, customer portals and churn-reduction workflows.
 * [Shopify App Bridge](https://shopify.dev/docs/api/app-bridge) - Library for building embedded apps inside the Shopify admin.
-* [Shopify App Template (Remix)](https://github.com/Shopify/shopify-app-template-remix) ⭐ 552 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-05 - Official starter template for building Shopify apps with Remix.
+* [Shopify App Template (Remix)](https://github.com/Shopify/shopify-app-template-remix) ⭐ 553 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-05 - Official starter template for building Shopify apps with Remix.
 * [Shopify Checkout Extensibility](https://shopify.dev/docs/apps/build/checkout) - Customize the Shopify checkout with extensions.
 * [Smile.io](https://smile.io) - Loyalty points, referral and VIP rewards programs that run inside Shopify storefronts without code.
 * [Tapcart](https://tapcart.com) - No-code mobile app builder that turns Shopify stores into native iOS and Android shopping apps.
@@ -186,11 +186,11 @@ Everything for building and running a WooCommerce store on WordPress.
 
 ## Other Platforms & Open-source Engines
 
-* [Medusa](https://github.com/medusajs/medusa) ⭐ 35,897 | 🐛 143 | 🌐 TypeScript | 📅 2026-08-18 - Composable, open-source commerce engine built with Node.js.
-* [Bagisto](https://github.com/bagisto/bagisto) ⭐ 27,981 | 🐛 39 | 🌐 PHP | 📅 2026-08-19 - Open-source Laravel ecommerce platform.
-* [Saleor](https://github.com/saleor/saleor) ⭐ 23,234 | 🐛 245 | 🌐 Python | 📅 2026-08-18 - GraphQL-first, open-source ecommerce platform.
-* [Spree](https://github.com/spree/spree) ⭐ 15,629 | 🐛 135 | 🌐 Ruby | 📅 2026-08-19 - Open-source Ruby on Rails ecommerce platform.
-* [Vendure](https://github.com/vendurehq/vendure) ⭐ 8,348 | 🐛 190 | 🌐 TypeScript | 📅 2026-08-18 - Headless open-source commerce framework for Node.js.
+* [Medusa](https://github.com/medusajs/medusa) ⭐ 35,907 | 🐛 147 | 🌐 TypeScript | 📅 2026-08-19 - Composable, open-source commerce engine built with Node.js.
+* [Bagisto](https://github.com/bagisto/bagisto) ⭐ 27,983 | 🐛 32 | 🌐 PHP | 📅 2026-08-19 - Open-source Laravel ecommerce platform.
+* [Saleor](https://github.com/saleor/saleor) ⭐ 23,236 | 🐛 246 | 🌐 Python | 📅 2026-08-19 - GraphQL-first, open-source ecommerce platform.
+* [Spree](https://github.com/spree/spree) ⭐ 15,631 | 🐛 135 | 🌐 Ruby | 📅 2026-08-19 - Open-source Ruby on Rails ecommerce platform.
+* [Vendure](https://github.com/vendurehq/vendure) ⭐ 8,349 | 🐛 193 | 🌐 TypeScript | 📅 2026-08-19 - Headless open-source commerce framework for Node.js.
 * [Adobe Commerce (Magento) Developer Docs](https://developer.adobe.com/commerce/) - Documentation for Adobe Commerce and Magento Open Source.
 * [BigCommerce Developer Center](https://developer.bigcommerce.com) - APIs, docs and tools for building on BigCommerce.
 * [BigCommerce REST APIs](https://developer.bigcommerce.com/docs/rest) - Catalog, checkout, orders and storefront APIs for BigCommerce.
@@ -303,8 +303,8 @@ Marketing tooling — including Generative Engine Optimization (GEO), the practi
 
 ## Related Awesome Lists
 
-* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,548 | 🐛 3,173 | 📅 2026-08-17 - A curated list of Model Context Protocol servers.
-* [awesome-shopify](https://github.com/julionc/awesome-shopify) ⭐ 1,265 | 🐛 6 | 📅 2026-08-13 - A curated list of Shopify resources and open-source projects.
+* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,564 | 🐛 3,187 | 📅 2026-08-17 - A curated list of Model Context Protocol servers.
+* [awesome-shopify](https://github.com/julionc/awesome-shopify) ⭐ 1,266 | 🐛 6 | 📅 2026-08-13 - A curated list of Shopify resources and open-source projects.
 
 ## Contributing
 

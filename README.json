@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1125591841,
             "language": "Python",
-            "last_commit": "2026-08-19T01:19:10Z",
+            "last_commit": "2026-08-19T10:02:41Z",
             "owner": "Universal-Commerce-Protocol",
             "repo": "ucp",
-            "stars": 3317
+            "stars": 3319
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 993436316,
             "language": "Python",
             "last_commit": "2026-06-17T01:24:46Z",
             "owner": "google-agentic-commerce",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1066127724,
             "language": "JavaScript",
             "last_commit": "2026-07-18T04:51:51Z",
             "owner": "agentic-commerce-protocol",
@@ -58,8 +61,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 886826524,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T21:23:03Z",
+            "last_commit": "2026-08-19T06:33:36Z",
             "owner": "stripe",
             "repo": "ai",
             "stars": 1750
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 957539596,
             "language": "TypeScript",
             "last_commit": "2026-08-10T20:44:49Z",
             "owner": "paypal",
@@ -84,98 +89,101 @@
     },
     {
       "description": "Everything for building on and selling with Shopify.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Polaris",
+              "description": "Shopify's design system and React component library for admin apps.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 88897663,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T07:11:56Z",
+                "owner": "Shopify",
+                "repo": "polaris-react-archive",
+                "stars": 6174
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify CLI",
+              "description": "Command-line tool for building apps, themes and extensions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 505864478,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T00:37:07Z",
+                "owner": "Shopify",
+                "repo": "cli",
+                "stars": 730
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Functions Examples",
+              "description": "Sample projects for building Shopify Functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 406480418,
+                "language": "JavaScript",
+                "last_commit": "2026-04-23T03:56:01Z",
+                "owner": "Shopify",
+                "repo": "function-examples",
+                "stars": 242
+              }
+            }
+          ],
+          "description": "📚 Further reading.",
+          "node_type": "group",
+          "title": "Development Tools & CLI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dawn",
+              "description": "Shopify's reference Online Store 2.0 theme.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379635294,
+                "language": "Liquid",
+                "last_commit": "2026-08-10T20:55:54Z",
+                "owner": "Shopify",
+                "repo": "dawn",
+                "stars": 3060
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hydrogen",
+              "description": "Shopify's React framework for building custom headless storefronts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 538665344,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T23:24:22Z",
+                "owner": "Shopify",
+                "repo": "hydrogen",
+                "stars": 2092
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Themes & Storefront"
+        }
+      ],
       "title": "Shopify"
     },
     {
-      "description": "📚 Further reading.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Polaris",
-          "description": "Shopify's design system and React component library for admin apps.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T07:11:56Z",
-            "owner": "Shopify",
-            "repo": "polaris-react-archive",
-            "stars": 6174
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify CLI",
-          "description": "Command-line tool for building apps, themes and extensions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T00:37:07Z",
-            "owner": "Shopify",
-            "repo": "cli",
-            "stars": 730
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shopify Functions Examples",
-          "description": "Sample projects for building Shopify Functions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-23T03:56:01Z",
-            "owner": "Shopify",
-            "repo": "function-examples",
-            "stars": 242
-          }
-        }
-      ],
-      "title": "Development Tools & CLI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Dawn",
-          "description": "Shopify's reference Online Store 2.0 theme.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Liquid",
-            "last_commit": "2026-08-10T20:55:54Z",
-            "owner": "Shopify",
-            "repo": "dawn",
-            "stars": 3060
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hydrogen",
-          "description": "Shopify's React framework for building custom headless storefronts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T23:24:22Z",
-            "owner": "Shopify",
-            "repo": "hydrogen",
-            "stars": 2092
-          }
-        }
-      ],
-      "title": "Themes & Storefront"
-    },
-    {
-      "description": "Everything for building and running a WooCommerce store on WordPress.",
-      "items": [],
-      "title": "WooCommerce & WordPress"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -184,11 +192,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234739976,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:00:59Z",
+            "last_commit": "2026-08-19T09:00:43Z",
             "owner": "medusajs",
             "repo": "medusa",
-            "stars": 35897
+            "stars": 35907
           }
         },
         {
@@ -198,11 +207,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148129143,
             "language": "PHP",
-            "last_commit": "2026-08-19T05:42:05Z",
+            "last_commit": "2026-08-19T10:53:10Z",
             "owner": "bagisto",
             "repo": "bagisto",
-            "stars": 27981
+            "stars": 27983
           }
         },
         {
@@ -212,11 +222,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8162715,
             "language": "Python",
-            "last_commit": "2026-08-18T19:53:18Z",
+            "last_commit": "2026-08-19T12:04:49Z",
             "owner": "saleor",
             "repo": "saleor",
-            "stars": 23234
+            "stars": 23236
           }
         },
         {
@@ -226,11 +237,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3314,
             "language": "Ruby",
-            "last_commit": "2026-08-19T05:41:32Z",
+            "last_commit": "2026-08-19T11:58:35Z",
             "owner": "spree",
             "repo": "spree",
-            "stars": 15629
+            "stars": 15631
           }
         },
         {
@@ -240,18 +252,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136938012,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:24:31Z",
+            "last_commit": "2026-08-19T12:00:53Z",
             "owner": "vendurehq",
             "repo": "vendure",
-            "stars": 8348
+            "stars": 8349
           }
         }
       ],
       "title": "Other Platforms & Open-source Engines"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -260,6 +273,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 307520777,
             "language": "TypeScript",
             "last_commit": "2026-08-13T01:06:36Z",
             "owner": "vercel",
@@ -274,6 +288,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100346588,
             "language": null,
             "last_commit": "2026-06-09T12:03:34Z",
             "owner": "vuestorefront",
@@ -288,6 +303,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167417059,
             "language": "TypeScript",
             "last_commit": "2026-07-24T10:55:48Z",
             "owner": "vuestorefront",
@@ -302,6 +318,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186037107,
             "language": "TypeScript",
             "last_commit": "2020-09-04T11:31:29Z",
             "owner": "snipcart",
@@ -313,7 +330,7 @@
       "title": "Headless & Storefront Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -322,11 +339,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 896335270,
             "language": null,
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92548
+            "stars": 92564
           }
         },
         {
@@ -336,25 +354,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58393941,
             "language": null,
             "last_commit": "2026-08-13T00:34:27Z",
             "owner": "julionc",
             "repo": "awesome-shopify",
-            "stars": 1265
+            "stars": 1266
           }
         }
       ],
       "title": "Related Awesome Lists"
-    },
-    {
-      "description": "Contributions are welcome! Read the contribution guidelines first.\nListed here? Add the Mentioned in Awesome badge to your README.\nMaintained by the team at Mention Network, building AI visibility tools for ecommerce.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:55:25.744Z",
+    "last_updated": "2026-08-19T12:15:01.736Z",
     "original_repository": "MentionNetwork/awesome-agentic-commerce",
+    "original_repository_id": 1291882937,
     "original_repository_sha": "25cd829963feb8f81aa2e7af2012f3dc987ff4b2",
     "enhanced_repository": "enhansome/enhansome-agentic-commerce",
     "enhanced_repository_description": null,
