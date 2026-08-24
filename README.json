@@ -30,7 +30,7 @@
             "last_commit": "2026-06-17T01:24:46Z",
             "owner": "google-agentic-commerce",
             "repo": "AP2",
-            "stars": 3149
+            "stars": 3152
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-18T04:51:51Z",
             "owner": "agentic-commerce-protocol",
             "repo": "agentic-commerce-protocol",
-            "stars": 1521
+            "stars": 1522
           }
         }
       ],
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-22T04:22:39Z",
             "owner": "stripe",
             "repo": "ai",
-            "stars": 1760
+            "stars": 1762
           }
         },
         {
@@ -94,6 +94,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "shopify-api-js",
+              "description": "Official Shopify API client library for Node.js.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 297455522,
+                "language": "TypeScript",
+                "last_commit": "2024-04-11T15:42:14Z",
+                "owner": "Shopify",
+                "repo": "shopify-api-js",
+                "stars": 954
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "APIs & SDKs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Polaris",
               "description": "Shopify's design system and React component library for admin apps.",
               "children": [],
@@ -104,7 +126,7 @@
                 "last_commit": "2026-08-11T07:11:56Z",
                 "owner": "Shopify",
                 "repo": "polaris-react-archive",
-                "stars": 6173
+                "stars": 6174
               }
             },
             {
@@ -116,7 +138,7 @@
                 "archived": false,
                 "id": 505864478,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T00:37:22Z",
+                "last_commit": "2026-08-24T10:09:47Z",
                 "owner": "Shopify",
                 "repo": "cli",
                 "stars": 733
@@ -171,13 +193,57 @@
                 "last_commit": "2026-08-21T23:59:15Z",
                 "owner": "Shopify",
                 "repo": "hydrogen",
-                "stars": 2097
+                "stars": 2098
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Themes & Storefront"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shopify App Template (Remix)",
+              "description": "Official starter template for building Shopify apps with Remix.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626502239,
+                "language": "TypeScript",
+                "last_commit": "2026-08-05T11:20:52Z",
+                "owner": "Shopify",
+                "repo": "shopify-app-template-remix",
+                "stars": 555
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Apps & Extensions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shopify shop-chat-agent",
+              "description": "Reference Shopify app embedding an AI chat widget for product discovery and checkout via MCP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 974429467,
+                "language": "JavaScript",
+                "last_commit": "2026-06-09T20:47:03Z",
+                "owner": "Shopify",
+                "repo": "shop-chat-agent",
+                "stars": 139
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI, MCP & Agents"
         }
       ],
       "title": "Shopify"
@@ -194,10 +260,10 @@
             "archived": false,
             "id": 234739976,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T09:10:33Z",
+            "last_commit": "2026-08-24T14:20:45Z",
             "owner": "medusajs",
             "repo": "medusa",
-            "stars": 35975
+            "stars": 35979
           }
         },
         {
@@ -209,10 +275,10 @@
             "archived": false,
             "id": 148129143,
             "language": "PHP",
-            "last_commit": "2026-08-22T09:52:53Z",
+            "last_commit": "2026-08-24T11:44:31Z",
             "owner": "bagisto",
             "repo": "bagisto",
-            "stars": 27986
+            "stars": 27987
           }
         },
         {
@@ -224,10 +290,10 @@
             "archived": false,
             "id": 8162715,
             "language": "Python",
-            "last_commit": "2026-08-24T02:17:06Z",
+            "last_commit": "2026-08-24T12:41:36Z",
             "owner": "saleor",
             "repo": "saleor",
-            "stars": 23261
+            "stars": 23262
           }
         },
         {
@@ -239,10 +305,10 @@
             "archived": false,
             "id": 3314,
             "language": "Ruby",
-            "last_commit": "2026-08-23T19:25:06Z",
+            "last_commit": "2026-08-24T14:24:38Z",
             "owner": "spree",
             "repo": "spree",
-            "stars": 15639
+            "stars": 15640
           }
         },
         {
@@ -254,10 +320,10 @@
             "archived": false,
             "id": 136938012,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T15:37:14Z",
+            "last_commit": "2026-08-24T14:45:48Z",
             "owner": "vendurehq",
             "repo": "vendure",
-            "stars": 8369
+            "stars": 8371
           }
         }
       ],
@@ -278,7 +344,7 @@
             "last_commit": "2026-08-13T01:06:36Z",
             "owner": "vercel",
             "repo": "commerce",
-            "stars": 14234
+            "stars": 14237
           }
         },
         {
@@ -305,7 +371,7 @@
             "archived": false,
             "id": 167417059,
             "language": "TypeScript",
-            "last_commit": "2026-07-24T10:55:48Z",
+            "last_commit": "2026-08-24T12:31:58Z",
             "owner": "vuestorefront",
             "repo": "storefront-ui",
             "stars": 2508
@@ -344,7 +410,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92729
+            "stars": 92740
           }
         },
         {
@@ -367,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:02:53.856Z",
+    "last_updated": "2026-08-24T14:47:04.129Z",
     "original_repository": "MentionNetwork/awesome-agentic-commerce",
     "original_repository_id": 1291882937,
     "original_repository_sha": "25cd829963feb8f81aa2e7af2012f3dc987ff4b2",
