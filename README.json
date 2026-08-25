@@ -141,7 +141,7 @@
                 "last_commit": "2026-08-25T00:32:07Z",
                 "owner": "Shopify",
                 "repo": "cli",
-                "stars": 733
+                "stars": 734
               }
             },
             {
@@ -260,10 +260,10 @@
             "archived": false,
             "id": 234739976,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T22:55:58Z",
+            "last_commit": "2026-08-25T07:58:55Z",
             "owner": "medusajs",
             "repo": "medusa",
-            "stars": 35985
+            "stars": 35986
           }
         },
         {
@@ -278,7 +278,7 @@
             "last_commit": "2026-08-24T11:44:31Z",
             "owner": "bagisto",
             "repo": "bagisto",
-            "stars": 27988
+            "stars": 27989
           }
         },
         {
@@ -308,7 +308,7 @@
             "last_commit": "2026-08-25T05:56:09Z",
             "owner": "spree",
             "repo": "spree",
-            "stars": 15642
+            "stars": 15644
           }
         },
         {
@@ -320,10 +320,10 @@
             "archived": false,
             "id": 136938012,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T15:43:43Z",
+            "last_commit": "2026-08-25T07:54:15Z",
             "owner": "vendurehq",
             "repo": "vendure",
-            "stars": 8370
+            "stars": 8371
           }
         }
       ],
@@ -410,7 +410,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92764
+            "stars": 92769
           }
         },
         {
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:22:09.034Z",
+    "last_updated": "2026-08-25T08:07:30.279Z",
     "original_repository": "MentionNetwork/awesome-agentic-commerce",
     "original_repository_id": 1291882937,
     "original_repository_sha": "25cd829963feb8f81aa2e7af2012f3dc987ff4b2",
