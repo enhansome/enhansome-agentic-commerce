@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1125591841,
             "language": "Python",
-            "last_commit": "2026-08-25T04:34:41Z",
+            "last_commit": "2026-08-25T18:54:10Z",
             "owner": "Universal-Commerce-Protocol",
             "repo": "ucp",
-            "stars": 3325
+            "stars": 3328
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-17T01:24:46Z",
             "owner": "google-agentic-commerce",
             "repo": "AP2",
-            "stars": 3152
+            "stars": 3157
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-18T04:51:51Z",
             "owner": "agentic-commerce-protocol",
             "repo": "agentic-commerce-protocol",
-            "stars": 1522
+            "stars": 1523
           }
         }
       ],
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 886826524,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T04:22:39Z",
+            "last_commit": "2026-08-26T00:21:54Z",
             "owner": "stripe",
             "repo": "ai",
             "stars": 1763
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-20T04:23:56Z",
             "owner": "paypal",
             "repo": "agent-toolkit",
-            "stars": 190
+            "stars": 189
           }
         }
       ],
@@ -138,7 +138,7 @@
                 "archived": false,
                 "id": 505864478,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T00:32:07Z",
+                "last_commit": "2026-08-26T00:43:32Z",
                 "owner": "Shopify",
                 "repo": "cli",
                 "stars": 734
@@ -178,7 +178,7 @@
                 "last_commit": "2026-08-10T20:55:54Z",
                 "owner": "Shopify",
                 "repo": "dawn",
-                "stars": 3061
+                "stars": 3060
               }
             },
             {
@@ -190,7 +190,7 @@
                 "archived": false,
                 "id": 538665344,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T19:45:54Z",
+                "last_commit": "2026-08-26T00:34:43Z",
                 "owner": "Shopify",
                 "repo": "hydrogen",
                 "stars": 2099
@@ -237,7 +237,7 @@
                 "last_commit": "2026-06-09T20:47:03Z",
                 "owner": "Shopify",
                 "repo": "shop-chat-agent",
-                "stars": 139
+                "stars": 140
               }
             }
           ],
@@ -260,10 +260,10 @@
             "archived": false,
             "id": 234739976,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T07:58:55Z",
+            "last_commit": "2026-08-26T00:28:40Z",
             "owner": "medusajs",
             "repo": "medusa",
-            "stars": 35986
+            "stars": 36003
           }
         },
         {
@@ -275,10 +275,10 @@
             "archived": false,
             "id": 148129143,
             "language": "PHP",
-            "last_commit": "2026-08-24T11:44:31Z",
+            "last_commit": "2026-08-26T05:43:34Z",
             "owner": "bagisto",
             "repo": "bagisto",
-            "stars": 27989
+            "stars": 27986
           }
         },
         {
@@ -290,7 +290,7 @@
             "archived": false,
             "id": 8162715,
             "language": "Python",
-            "last_commit": "2026-08-24T12:41:36Z",
+            "last_commit": "2026-08-25T20:26:45Z",
             "owner": "saleor",
             "repo": "saleor",
             "stars": 23265
@@ -305,10 +305,10 @@
             "archived": false,
             "id": 3314,
             "language": "Ruby",
-            "last_commit": "2026-08-25T05:56:09Z",
+            "last_commit": "2026-08-25T22:19:38Z",
             "owner": "spree",
             "repo": "spree",
-            "stars": 15644
+            "stars": 15645
           }
         },
         {
@@ -320,10 +320,10 @@
             "archived": false,
             "id": 136938012,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T07:54:15Z",
+            "last_commit": "2026-08-25T17:33:16Z",
             "owner": "vendurehq",
             "repo": "vendure",
-            "stars": 8371
+            "stars": 8373
           }
         }
       ],
@@ -344,7 +344,7 @@
             "last_commit": "2026-08-13T01:06:36Z",
             "owner": "vercel",
             "repo": "commerce",
-            "stars": 14236
+            "stars": 14235
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2026-06-09T12:03:34Z",
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10940
+            "stars": 10941
           }
         },
         {
@@ -371,7 +371,7 @@
             "archived": false,
             "id": 167417059,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T15:11:12Z",
+            "last_commit": "2026-08-25T12:30:23Z",
             "owner": "vuestorefront",
             "repo": "storefront-ui",
             "stars": 2508
@@ -410,7 +410,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92769
+            "stars": 92826
           }
         },
         {
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:07:30.279Z",
+    "last_updated": "2026-08-26T05:58:56.312Z",
     "original_repository": "MentionNetwork/awesome-agentic-commerce",
     "original_repository_id": 1291882937,
     "original_repository_sha": "25cd829963feb8f81aa2e7af2012f3dc987ff4b2",
