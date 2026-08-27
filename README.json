@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T18:54:10Z",
             "owner": "Universal-Commerce-Protocol",
             "repo": "ucp",
-            "stars": 3337
+            "stars": 3338
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-18T04:51:51Z",
             "owner": "agentic-commerce-protocol",
             "repo": "agentic-commerce-protocol",
-            "stars": 1523
+            "stars": 1524
           }
         }
       ],
@@ -138,10 +138,10 @@
                 "archived": false,
                 "id": 505864478,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:06:10Z",
+                "last_commit": "2026-08-27T16:21:06Z",
                 "owner": "Shopify",
                 "repo": "cli",
-                "stars": 734
+                "stars": 735
               }
             },
             {
@@ -193,7 +193,7 @@
                 "last_commit": "2026-08-26T23:44:02Z",
                 "owner": "Shopify",
                 "repo": "hydrogen",
-                "stars": 2102
+                "stars": 2104
               }
             }
           ],
@@ -260,10 +260,10 @@
             "archived": false,
             "id": 234739976,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:52:25Z",
+            "last_commit": "2026-08-27T16:03:56Z",
             "owner": "medusajs",
             "repo": "medusa",
-            "stars": 36024
+            "stars": 36027
           }
         },
         {
@@ -278,7 +278,7 @@
             "last_commit": "2026-08-27T09:48:33Z",
             "owner": "bagisto",
             "repo": "bagisto",
-            "stars": 28008
+            "stars": 28015
           }
         },
         {
@@ -290,7 +290,7 @@
             "archived": false,
             "id": 8162715,
             "language": "Python",
-            "last_commit": "2026-08-27T10:47:43Z",
+            "last_commit": "2026-08-27T13:01:45Z",
             "owner": "saleor",
             "repo": "saleor",
             "stars": 23267
@@ -305,10 +305,10 @@
             "archived": false,
             "id": 3314,
             "language": "Ruby",
-            "last_commit": "2026-08-27T10:22:39Z",
+            "last_commit": "2026-08-27T16:30:04Z",
             "owner": "spree",
             "repo": "spree",
-            "stars": 15647
+            "stars": 15648
           }
         },
         {
@@ -320,10 +320,10 @@
             "archived": false,
             "id": 136938012,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:16:36Z",
+            "last_commit": "2026-08-27T16:01:21Z",
             "owner": "vendurehq",
             "repo": "vendure",
-            "stars": 8377
+            "stars": 8378
           }
         }
       ],
@@ -410,7 +410,7 @@
             "last_commit": "2026-08-26T20:37:13Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92872
+            "stars": 92883
           }
         },
         {
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:18:47.516Z",
+    "last_updated": "2026-08-27T16:38:03.655Z",
     "original_repository_info": {
       "archived": false,
       "id": 1291882937,
