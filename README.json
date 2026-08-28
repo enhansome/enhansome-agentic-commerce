@@ -12,11 +12,12 @@
             "archived": false,
             "id": 1125591841,
             "language": "Python",
-            "last_commit": "2026-08-25T18:54:10Z",
+            "last_commit": "2026-08-27T19:35:50Z",
             "owner": "Universal-Commerce-Protocol",
             "repo": "ucp",
             "stars": 3338
-          }
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "google-agentic-commerce",
             "repo": "AP2",
             "stars": 3160
-          }
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "agentic-commerce-protocol",
             "repo": "agentic-commerce-protocol",
             "stars": 1524
-          }
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         }
       ],
       "title": "Universal / Agentic Commerce Protocols"
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 886826524,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T00:21:54Z",
+            "last_commit": "2026-08-28T03:16:21Z",
             "owner": "stripe",
             "repo": "ai",
-            "stars": 1768
-          }
+            "stars": 1773
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "paypal",
             "repo": "agent-toolkit",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         }
       ],
       "title": "AI & MCP Servers"
@@ -105,7 +110,8 @@
                 "owner": "Shopify",
                 "repo": "shopify-api-js",
                 "stars": 955
-              }
+              },
+              "first_seen": "2026-08-28T17:35:15.760Z"
             }
           ],
           "description": null,
@@ -126,8 +132,9 @@
                 "last_commit": "2026-08-11T07:11:56Z",
                 "owner": "Shopify",
                 "repo": "polaris-react-archive",
-                "stars": 6174
-              }
+                "stars": 6173
+              },
+              "first_seen": "2026-08-28T17:35:15.760Z"
             },
             {
               "node_type": "item",
@@ -138,11 +145,12 @@
                 "archived": false,
                 "id": 505864478,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T16:21:06Z",
+                "last_commit": "2026-08-28T17:03:20Z",
                 "owner": "Shopify",
                 "repo": "cli",
-                "stars": 735
-              }
+                "stars": 734
+              },
+              "first_seen": "2026-08-28T17:35:15.760Z"
             },
             {
               "node_type": "item",
@@ -157,7 +165,8 @@
                 "owner": "Shopify",
                 "repo": "function-examples",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T17:35:15.760Z"
             }
           ],
           "description": "📚 Further reading.",
@@ -179,7 +188,8 @@
                 "owner": "Shopify",
                 "repo": "dawn",
                 "stars": 3061
-              }
+              },
+              "first_seen": "2026-08-28T17:35:15.760Z"
             },
             {
               "node_type": "item",
@@ -190,11 +200,12 @@
                 "archived": false,
                 "id": 538665344,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T23:44:02Z",
+                "last_commit": "2026-08-28T16:24:52Z",
                 "owner": "Shopify",
                 "repo": "hydrogen",
                 "stars": 2104
-              }
+              },
+              "first_seen": "2026-08-28T17:35:15.760Z"
             }
           ],
           "description": null,
@@ -216,7 +227,8 @@
                 "owner": "Shopify",
                 "repo": "shopify-app-template-remix",
                 "stars": 555
-              }
+              },
+              "first_seen": "2026-08-28T17:35:15.760Z"
             }
           ],
           "description": null,
@@ -237,8 +249,9 @@
                 "last_commit": "2026-06-09T20:47:03Z",
                 "owner": "Shopify",
                 "repo": "shop-chat-agent",
-                "stars": 140
-              }
+                "stars": 139
+              },
+              "first_seen": "2026-08-28T17:35:15.760Z"
             }
           ],
           "description": null,
@@ -260,11 +273,12 @@
             "archived": false,
             "id": 234739976,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:03:56Z",
+            "last_commit": "2026-08-28T16:31:12Z",
             "owner": "medusajs",
             "repo": "medusa",
-            "stars": 36027
-          }
+            "stars": 36043
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         },
         {
           "node_type": "item",
@@ -278,8 +292,9 @@
             "last_commit": "2026-08-27T09:48:33Z",
             "owner": "bagisto",
             "repo": "bagisto",
-            "stars": 28015
-          }
+            "stars": 28025
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         },
         {
           "node_type": "item",
@@ -290,11 +305,12 @@
             "archived": false,
             "id": 8162715,
             "language": "Python",
-            "last_commit": "2026-08-27T13:01:45Z",
+            "last_commit": "2026-08-28T10:59:13Z",
             "owner": "saleor",
             "repo": "saleor",
-            "stars": 23267
-          }
+            "stars": 23272
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         },
         {
           "node_type": "item",
@@ -305,11 +321,12 @@
             "archived": false,
             "id": 3314,
             "language": "Ruby",
-            "last_commit": "2026-08-27T16:30:04Z",
+            "last_commit": "2026-08-28T17:32:20Z",
             "owner": "spree",
             "repo": "spree",
-            "stars": 15648
-          }
+            "stars": 15651
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         },
         {
           "node_type": "item",
@@ -320,11 +337,12 @@
             "archived": false,
             "id": 136938012,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:01:21Z",
+            "last_commit": "2026-08-28T12:04:46Z",
             "owner": "vendurehq",
             "repo": "vendure",
-            "stars": 8378
-          }
+            "stars": 8381
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         }
       ],
       "title": "Other Platforms & Open-source Engines"
@@ -344,8 +362,9 @@
             "last_commit": "2026-08-13T01:06:36Z",
             "owner": "vercel",
             "repo": "commerce",
-            "stars": 14237
-          }
+            "stars": 14238
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         },
         {
           "node_type": "item",
@@ -360,7 +379,8 @@
             "owner": "vuestorefront",
             "repo": "vue-storefront",
             "stars": 10941
-          }
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         },
         {
           "node_type": "item",
@@ -375,7 +395,8 @@
             "owner": "vuestorefront",
             "repo": "storefront-ui",
             "stars": 2508
-          }
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         },
         {
           "node_type": "item",
@@ -390,7 +411,8 @@
             "owner": "snipcart",
             "repo": "snipcart-nextjs",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         }
       ],
       "title": "Headless & Storefront Frameworks"
@@ -407,11 +429,12 @@
             "archived": false,
             "id": 896335270,
             "language": null,
-            "last_commit": "2026-08-26T20:37:13Z",
+            "last_commit": "2026-08-27T21:09:23Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92883
-          }
+            "stars": 92973
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         },
         {
           "node_type": "item",
@@ -425,15 +448,16 @@
             "last_commit": "2026-08-13T00:34:27Z",
             "owner": "julionc",
             "repo": "awesome-shopify",
-            "stars": 1270
-          }
+            "stars": 1271
+          },
+          "first_seen": "2026-08-28T17:35:15.760Z"
         }
       ],
       "title": "Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:38:03.655Z",
+    "last_updated": "2026-08-28T17:35:15.760Z",
     "original_repository_info": {
       "archived": false,
       "id": 1291882937,
