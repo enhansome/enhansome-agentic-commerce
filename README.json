@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Specification and documentation for the Universal Commerce Protocol (UCP)",
+            "homepage": "https://ucp.dev",
             "id": 1125591841,
             "language": "Python",
-            "last_commit": "2026-08-27T19:35:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:08:07Z",
+            "open_issues": 168,
             "owner": "Universal-Commerce-Protocol",
             "repo": "ucp",
-            "stars": 3338
+            "stars": 3339,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building a Secure and Interoperable Future for AI-Driven Payments.",
+            "homepage": "https://ap2-protocol.org/",
             "id": 993436316,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-17T01:24:46Z",
+            "open_issues": 147,
             "owner": "google-agentic-commerce",
             "repo": "AP2",
-            "stars": 3160
+            "stars": 3160,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe.",
+            "homepage": "https://agenticcommerce.dev",
             "id": 1066127724,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-18T04:51:51Z",
+            "open_issues": 136,
             "owner": "agentic-commerce-protocol",
             "repo": "agentic-commerce-protocol",
-            "stars": 1524
+            "stars": 1524,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         }
@@ -64,12 +79,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One-stop shop for building AI-powered products and businesses with Stripe.",
+            "homepage": "https://docs.stripe.com/agents",
             "id": 886826524,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T03:16:21Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:43:54Z",
+            "open_issues": 82,
             "owner": "stripe",
             "repo": "ai",
-            "stars": 1773
+            "stars": 1774,
+            "topics": [
+              "ai",
+              "gemini-cli-extension",
+              "llm",
+              "llm-agents",
+              "mcp",
+              "python",
+              "typescript",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         },
@@ -80,12 +109,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PayPal Agent",
+            "homepage": null,
             "id": 957539596,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T04:23:56Z",
+            "open_issues": 23,
             "owner": "paypal",
             "repo": "agent-toolkit",
-            "stars": 189
+            "stars": 189,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         }
@@ -104,12 +138,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Shopify Admin API Library for Node. Accelerate development with support for authentication, graphql proxy, webhooks",
+                "homepage": null,
                 "id": 297455522,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-04-11T15:42:14Z",
+                "open_issues": 9,
                 "owner": "Shopify",
                 "repo": "shopify-api-js",
-                "stars": 955
+                "stars": 955,
+                "topics": [
+                  "api",
+                  "authentication",
+                  "javascript",
+                  "shopify",
+                  "typescript",
+                  "webhooks"
+                ]
               },
               "first_seen": "2026-08-28T17:35:15.760Z"
             }
@@ -127,12 +173,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Shopify's Polaris Design System - React implementation (Deprecated)",
+                "homepage": "https://shopify.github.io/polaris-react-archive/",
                 "id": 88897663,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-11T07:11:56Z",
+                "open_issues": 73,
                 "owner": "Shopify",
                 "repo": "polaris-react-archive",
-                "stars": 6173
+                "stars": 6173,
+                "topics": [
+                  "component-library",
+                  "design-system",
+                  "design-systems",
+                  "design-tokens",
+                  "figma-plugin",
+                  "icons",
+                  "react",
+                  "shopify-polaris",
+                  "typescript",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T17:35:15.760Z"
             },
@@ -143,12 +205,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build apps, themes, and hydrogen storefronts for Shopify",
+                "homepage": "https://shopify.dev",
                 "id": 505864478,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T17:03:20Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:59:50Z",
+                "open_issues": 155,
                 "owner": "Shopify",
                 "repo": "cli",
-                "stars": 734
+                "stars": 735,
+                "topics": [
+                  "cli",
+                  "oclif",
+                  "shopify",
+                  "shopify-apps",
+                  "shopify-themes",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:35:15.760Z"
             },
@@ -159,12 +233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 406480418,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-23T03:56:01Z",
+                "open_issues": 38,
                 "owner": "Shopify",
                 "repo": "function-examples",
-                "stars": 242
+                "stars": 242,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:35:15.760Z"
             }
@@ -182,12 +261,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.",
+                "homepage": null,
                 "id": 379635294,
                 "language": "Liquid",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-10T20:55:54Z",
+                "open_issues": 20,
                 "owner": "Shopify",
                 "repo": "dawn",
-                "stars": 3061
+                "stars": 3061,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:35:15.760Z"
             },
@@ -198,12 +282,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hydrogen lets you build faster headless storefronts in less time, on Shopify.",
+                "homepage": "https://skeleton.hydrogen.shop",
                 "id": 538665344,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T16:24:52Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:43:01Z",
+                "open_issues": 70,
                 "owner": "Shopify",
                 "repo": "hydrogen",
-                "stars": 2104
+                "stars": 2105,
+                "topics": [
+                  "hydrogen",
+                  "react",
+                  "remix",
+                  "shopify"
+                ]
               },
               "first_seen": "2026-08-28T17:35:15.760Z"
             }
@@ -221,12 +315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 626502239,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-05T11:20:52Z",
+                "open_issues": 72,
                 "owner": "Shopify",
                 "repo": "shopify-app-template-remix",
-                "stars": 555
+                "stars": 555,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:35:15.760Z"
             }
@@ -244,12 +343,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reference app for storefront chat agent",
+                "homepage": null,
                 "id": 974429467,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-09T20:47:03Z",
+                "open_issues": 37,
                 "owner": "Shopify",
                 "repo": "shop-chat-agent",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:35:15.760Z"
             }
@@ -271,12 +375,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The world's most flexible commerce platform for agents and developers",
+            "homepage": "https://medusajs.com",
             "id": 234739976,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T16:31:12Z",
+            "open_issues": 189,
             "owner": "medusajs",
             "repo": "medusa",
-            "stars": 36043
+            "stars": 36046,
+            "topics": [
+              "ai-coding",
+              "ai-tools",
+              "commerce",
+              "e-commerce",
+              "ecommerce",
+              "framework",
+              "javascript",
+              "medusa",
+              "nodejs",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         },
@@ -287,12 +408,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs",
+            "homepage": "https://bagisto.com",
             "id": 148129143,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-27T09:48:33Z",
+            "open_issues": 31,
             "owner": "bagisto",
             "repo": "bagisto",
-            "stars": 28025
+            "stars": 28032,
+            "topics": [
+              "b2b-ecommerce",
+              "blockchain-ecommerce",
+              "ecommerce",
+              "ecommerce-framework",
+              "ecommerce-platform",
+              "hacktoberfest",
+              "headless-commerce",
+              "laravel",
+              "laravel-application",
+              "laravel-ecommerce",
+              "laravel-package",
+              "multi-tenancy-plugin",
+              "multi-tenant",
+              "multi-vendor-ecommerce",
+              "multivendor-ecommerce",
+              "nft-marketplace",
+              "open-source",
+              "opensource-ecommerce",
+              "php",
+              "php-ecommerce"
+            ]
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         },
@@ -303,12 +450,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Saleor Core: the high performance, composable, headless commerce API.",
+            "homepage": "https://saleor.io",
             "id": 8162715,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T10:59:13Z",
+            "open_issues": 245,
             "owner": "saleor",
             "repo": "saleor",
-            "stars": 23272
+            "stars": 23274,
+            "topics": [
+              "cart",
+              "checkout",
+              "commerce",
+              "composable",
+              "e-commerce",
+              "ecommerce",
+              "graphql",
+              "headless",
+              "headless-commerce",
+              "multichannel",
+              "oms",
+              "order-management",
+              "payments",
+              "pim",
+              "python",
+              "shop",
+              "shopping-cart",
+              "store"
+            ]
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         },
@@ -319,12 +490,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.",
+            "homepage": "https://spreecommerce.org",
             "id": 3314,
             "language": "Ruby",
-            "last_commit": "2026-08-28T17:32:20Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T22:18:44Z",
+            "open_issues": 134,
             "owner": "spree",
             "repo": "spree",
-            "stars": 15651
+            "stars": 15652,
+            "topics": [
+              "b2b-commerce",
+              "e-commerce",
+              "ecommerce",
+              "ecommerce-api",
+              "ecommerce-framework",
+              "ecommerce-platform",
+              "headless",
+              "headless-commerce",
+              "headless-ecommerce",
+              "marketplace",
+              "multi-tenant",
+              "multi-vendor",
+              "multi-vendor-ecommerce",
+              "open-source",
+              "spree-commerce"
+            ]
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         },
@@ -335,12 +527,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL",
+            "homepage": "https://www.vendure.io",
             "id": 136938012,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T12:04:46Z",
+            "open_issues": 206,
             "owner": "vendurehq",
             "repo": "vendure",
-            "stars": 8381
+            "stars": 8381,
+            "topics": [
+              "ecommerce",
+              "ecommerce-api",
+              "ecommerce-framework",
+              "ecommerce-platform",
+              "graphql",
+              "graphql-commerce",
+              "headless",
+              "headless-commerce",
+              "nestjs",
+              "nodejs",
+              "nodejs-ecommerce",
+              "react",
+              "shopping-cart"
+            ]
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         }
@@ -357,12 +568,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next.js Commerce",
+            "homepage": "https://demo.vercel.store",
             "id": 307520777,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T01:06:36Z",
+            "open_issues": 79,
             "owner": "vercel",
             "repo": "commerce",
-            "stars": 14238
+            "stars": 14237,
+            "topics": [
+              "ecommerce",
+              "nextjs",
+              "react",
+              "shopify"
+            ]
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         },
@@ -373,12 +594,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to deliver exceptional customer experiences quickly and easily.",
+            "homepage": "https://www.alokai.com",
             "id": 100346588,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-09T12:03:34Z",
+            "open_issues": 52,
             "owner": "vuestorefront",
             "repo": "vue-storefront",
-            "stars": 10941
+            "stars": 10941,
+            "topics": [
+              "commercetools",
+              "e-commerce",
+              "ecommerce",
+              "ecommerce-platform",
+              "headless",
+              "headless-commerce",
+              "integrations-team",
+              "magento",
+              "magento2",
+              "mobile",
+              "nuxt",
+              "open-source",
+              "pwa",
+              "shopify",
+              "shopware",
+              "storefront",
+              "typescript",
+              "vue",
+              "vue-storefront",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         },
@@ -389,12 +636,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A frontend library for React and Vue that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.",
+            "homepage": "https://storefrontui.io",
             "id": 167417059,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T12:30:23Z",
+            "open_issues": 45,
             "owner": "vuestorefront",
             "repo": "storefront-ui",
-            "stars": 2508
+            "stars": 2508,
+            "topics": [
+              "ecommerce",
+              "javascript",
+              "pwa",
+              "react",
+              "storefront",
+              "storefront-theme",
+              "ui",
+              "ui-components",
+              "ui-kit",
+              "vue",
+              "vue-components",
+              "vuejs",
+              "vuejs2",
+              "vuejs3"
+            ]
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         },
@@ -405,12 +672,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo code for a Next.js e-commerce app powered by Snipcart",
+            "homepage": "https://snipcart.com/blog/next-js-ecommerce-tutorial",
             "id": 186037107,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-09-04T11:31:29Z",
+            "open_issues": 5,
             "owner": "snipcart",
             "repo": "snipcart-nextjs",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "e-commerce",
+              "heroku",
+              "nextjs",
+              "react",
+              "snipcart"
+            ]
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         }
@@ -427,12 +705,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of MCP servers.",
+            "homepage": "https://glama.ai/mcp/servers",
             "id": 896335270,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T21:09:23Z",
+            "open_issues": 3712,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92973
+            "stars": 93010,
+            "topics": [
+              "ai",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         },
@@ -443,12 +729,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📌✨A curated list of awesome Shopify resources, libraries and open source projects.",
+            "homepage": "https://github.com/julionc/awesome-shopify",
             "id": 58393941,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-13T00:34:27Z",
+            "open_issues": 5,
             "owner": "julionc",
             "repo": "awesome-shopify",
-            "stars": 1271
+            "stars": 1272,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "shopify",
+              "shopify-api",
+              "shopify-developers",
+              "shopify-partners",
+              "shopify-sdk",
+              "shopify-theme"
+            ]
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
         }
@@ -457,15 +757,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:35:15.760Z",
+    "last_updated": "2026-08-29T05:03:29.920Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome agentic commerce resources — protocols, MCP servers, tools, apps, APIs and services for AI agents that shop, sell and transact. For store owners, developers, agencies and marketers.",
+      "homepage": "https://mention.network",
       "id": 1291882937,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-20T06:57:02Z",
+      "open_issues": 58,
       "owner": "MentionNetwork",
       "repo": "awesome-agentic-commerce",
-      "stars": 62
+      "stars": 62,
+      "topics": [
+        "acp",
+        "agentic-ai",
+        "agentic-commerce",
+        "ai-agents",
+        "ai-commerce",
+        "ai-search",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "bigcommerce",
+        "ecommerce",
+        "ecommerce-tools",
+        "geo",
+        "headless-commerce",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "shopify",
+        "woocommerce",
+        "wordpress"
+      ]
     },
     "original_repository_sha": "25cd829963feb8f81aa2e7af2012f3dc987ff4b2",
     "enhanced_repository": "enhansome/enhansome-agentic-commerce",
