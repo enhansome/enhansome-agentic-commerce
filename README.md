@@ -51,8 +51,8 @@ Open standards that let AI agents discover products, build carts, and complete p
 | **AP2**  | Google + 60+ payment partners    | Proving a human authorized an agent's payment               | Cryptographically signed Mandates   | Payment layer complementing UCP/ACP |
 | **MCP**  | Anthropic (open standard)        | Connecting agents to tools and data                         | Client-server protocol              | Claude, ChatGPT and any MCP client  |
 
-* [UCP Specification](https://github.com/Universal-Commerce-Protocol/ucp) ⭐ 3,407 | 🐛 222 | 🌐 Python | 📅 2026-10-02 - Reference specification and documentation for UCP, released under Apache 2.0.
-* [AP2 Specification](https://github.com/google-agentic-commerce/AP2) ⭐ 3,204 | 🐛 170 | 🌐 Python | 📅 2026-06-17 - Reference specification and implementation for AP2, backed by 60+ payment partners.
+* [UCP Specification](https://github.com/Universal-Commerce-Protocol/ucp) ⭐ 3,407 | 🐛 223 | 🌐 Python | 📅 2026-10-03 - Reference specification and documentation for UCP, released under Apache 2.0.
+* [AP2 Specification](https://github.com/google-agentic-commerce/AP2) ⭐ 3,204 | 🐛 169 | 🌐 Python | 📅 2026-06-17 - Reference specification and implementation for AP2, backed by 60+ payment partners.
 * [ACP Specification](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) ⭐ 1,557 | 🐛 143 | 🌐 JavaScript | 📅 2026-07-18 - Reference specification, schemas and product-feed spec for ACP.
 * [Universal Commerce Protocol (UCP)](https://ucp.dev) - Open standard from Google and Shopify (20+ partners) for agentic checkout, live in Google AI Mode and Gemini.
 * [Agent Payments Protocol (AP2)](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol) - Google's open protocol for secure agent-initiated payments.
@@ -102,7 +102,7 @@ Everything for building on and selling with Shopify.
 ### Themes & Storefront
 
 * [Dawn](https://github.com/Shopify/dawn) ⭐ 3,097 | 🐛 33 | 🌐 Liquid | 📅 2026-10-02 - Shopify's reference Online Store 2.0 theme.
-* [Hydrogen](https://github.com/Shopify/hydrogen) ⭐ 2,138 | 🐛 112 | 🌐 TypeScript | 📅 2026-10-02 - Shopify's React framework for building custom headless storefronts.
+* [Hydrogen](https://github.com/Shopify/hydrogen) ⭐ 2,140 | 🐛 112 | 🌐 TypeScript | 📅 2026-10-02 - Shopify's React framework for building custom headless storefronts.
 * [Liquid](https://shopify.github.io/liquid/) - Open-source template language created by Shopify.
 
 ### Apps & Extensions
@@ -186,11 +186,11 @@ Everything for building and running a WooCommerce store on WordPress.
 
 ## Other Platforms & Open-source Engines
 
-* [Medusa](https://github.com/medusajs/medusa) ⭐ 36,558 | 🐛 181 | 🌐 TypeScript | 📅 2026-10-02 - Composable, open-source commerce engine built with Node.js.
+* [Medusa](https://github.com/medusajs/medusa) ⭐ 36,564 | 🐛 188 | 🌐 TypeScript | 📅 2026-10-03 - Composable, open-source commerce engine built with Node.js.
 * [Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,200 | 🐛 27 | 🌐 PHP | 📅 2026-10-01 - Open-source Laravel ecommerce platform.
-* [Saleor](https://github.com/saleor/saleor) ⭐ 23,399 | 🐛 288 | 🌐 Python | 📅 2026-10-02 - GraphQL-first, open-source ecommerce platform.
-* [Spree](https://github.com/spree/spree) ⭐ 15,737 | 🐛 178 | 🌐 Ruby | 📅 2026-10-02 - Open-source Ruby on Rails ecommerce platform.
-* [Vendure](https://github.com/vendurehq/vendure) ⭐ 8,497 | 🐛 193 | 🌐 TypeScript | 📅 2026-10-02 - Headless open-source commerce framework for Node.js.
+* [Saleor](https://github.com/saleor/saleor) ⭐ 23,402 | 🐛 288 | 🌐 Python | 📅 2026-10-02 - GraphQL-first, open-source ecommerce platform.
+* [Spree](https://github.com/spree/spree) ⭐ 15,738 | 🐛 178 | 🌐 Ruby | 📅 2026-10-02 - Open-source Ruby on Rails ecommerce platform.
+* [Vendure](https://github.com/vendurehq/vendure) ⭐ 8,497 | 🐛 194 | 🌐 TypeScript | 📅 2026-10-02 - Headless open-source commerce framework for Node.js.
 * [Adobe Commerce (Magento) Developer Docs](https://developer.adobe.com/commerce/) - Documentation for Adobe Commerce and Magento Open Source.
 * [BigCommerce Developer Center](https://developer.bigcommerce.com) - APIs, docs and tools for building on BigCommerce.
 * [BigCommerce REST APIs](https://developer.bigcommerce.com/docs/rest) - Catalog, checkout, orders and storefront APIs for BigCommerce.
@@ -199,7 +199,7 @@ Everything for building and running a WooCommerce store on WordPress.
 
 * [Next.js Commerce](https://github.com/vercel/commerce) ⭐ 14,284 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-13 - High-performance headless commerce storefront starter.
 * [Vue Storefront (Alokai)](https://github.com/vuestorefront/vue-storefront) ⭐ 10,951 | 🐛 51 | 📅 2026-06-09 - Frontend platform for headless commerce.
-* [Storefront UI](https://github.com/vuestorefront/storefront-ui) ⭐ 2,751 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-29 - Component library for building fast ecommerce storefronts.
+* [Storefront UI](https://github.com/vuestorefront/storefront-ui) ⭐ 2,752 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-29 - Component library for building fast ecommerce storefronts.
 * [Snipcart Next.js starter](https://github.com/snipcart/snipcart-nextjs) ⭐ 140 | 🐛 5 | 🌐 TypeScript | 📅 2020-09-04 - Add a shopping cart to any site with Snipcart and Next.js.
 
 ## Amazon
@@ -303,7 +303,7 @@ Marketing tooling — including Generative Engine Optimization (GEO), the practi
 
 ## Related Awesome Lists
 
-* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,766 | 🐛 2,796 | 📅 2026-09-27 - A curated list of Model Context Protocol servers.
+* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,770 | 🐛 2,807 | 📅 2026-09-27 - A curated list of Model Context Protocol servers.
 * [awesome-shopify](https://github.com/julionc/awesome-shopify) ⭐ 1,289 | 🐛 11 | 📅 2026-10-02 - A curated list of Shopify resources and open-source projects.
 
 ## Contributing
