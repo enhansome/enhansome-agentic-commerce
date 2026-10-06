@@ -96,7 +96,7 @@ Everything for building on and selling with Shopify.
 📚 [Further reading](articles/development.md).
 
 * [Polaris](https://github.com/Shopify/polaris-react) ⚠️ Archived - Shopify's design system and React component library for admin apps.
-* [Shopify CLI](https://github.com/Shopify/cli) ⭐ 753 | 🐛 140 | 🌐 TypeScript | 📅 2026-10-06 - Command-line tool for building apps, themes and extensions.
+* [Shopify CLI](https://github.com/Shopify/cli) ⭐ 754 | 🐛 141 | 🌐 TypeScript | 📅 2026-10-06 - Command-line tool for building apps, themes and extensions.
 * [Shopify Functions Examples](https://github.com/Shopify/function-examples) ⭐ 242 | 🐛 38 | 🌐 JavaScript | 📅 2026-04-23 - Sample projects for building Shopify Functions.
 
 ### Themes & Storefront
@@ -186,10 +186,10 @@ Everything for building and running a WooCommerce store on WordPress.
 
 ## Other Platforms & Open-source Engines
 
-* [Medusa](https://github.com/medusajs/medusa) ⭐ 36,621 | 🐛 190 | 🌐 TypeScript | 📅 2026-10-06 - Composable, open-source commerce engine built with Node.js.
-* [Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,213 | 🐛 26 | 🌐 PHP | 📅 2026-10-06 - Open-source Laravel ecommerce platform.
-* [Saleor](https://github.com/saleor/saleor) ⭐ 23,413 | 🐛 289 | 🌐 Python | 📅 2026-10-06 - GraphQL-first, open-source ecommerce platform.
-* [Spree](https://github.com/spree/spree) ⭐ 15,741 | 🐛 174 | 🌐 Ruby | 📅 2026-10-06 - Open-source Ruby on Rails ecommerce platform.
+* [Medusa](https://github.com/medusajs/medusa) ⭐ 36,622 | 🐛 188 | 🌐 TypeScript | 📅 2026-10-06 - Composable, open-source commerce engine built with Node.js.
+* [Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,214 | 🐛 26 | 🌐 PHP | 📅 2026-10-06 - Open-source Laravel ecommerce platform.
+* [Saleor](https://github.com/saleor/saleor) ⭐ 23,413 | 🐛 290 | 🌐 Python | 📅 2026-10-06 - GraphQL-first, open-source ecommerce platform.
+* [Spree](https://github.com/spree/spree) ⭐ 15,741 | 🐛 175 | 🌐 Ruby | 📅 2026-10-06 - Open-source Ruby on Rails ecommerce platform.
 * [Vendure](https://github.com/vendurehq/vendure) ⭐ 8,505 | 🐛 194 | 🌐 TypeScript | 📅 2026-10-06 - Headless open-source commerce framework for Node.js.
 * [Adobe Commerce (Magento) Developer Docs](https://developer.adobe.com/commerce/) - Documentation for Adobe Commerce and Magento Open Source.
 * [BigCommerce Developer Center](https://developer.bigcommerce.com) - APIs, docs and tools for building on BigCommerce.
@@ -303,7 +303,7 @@ Marketing tooling — including Generative Engine Optimization (GEO), the practi
 
 ## Related Awesome Lists
 
-* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,864 | 🐛 3,012 | 📅 2026-09-27 - A curated list of Model Context Protocol servers.
+* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,866 | 🐛 3,016 | 📅 2026-09-27 - A curated list of Model Context Protocol servers.
 * [awesome-shopify](https://github.com/julionc/awesome-shopify) ⭐ 1,291 | 🐛 11 | 📅 2026-10-02 - A curated list of Shopify resources and open-source projects.
 
 ## Contributing
