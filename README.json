@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-17T00:56:41Z",
-            "open_issues": 236,
+            "open_issues": 237,
             "owner": "Universal-Commerce-Protocol",
             "repo": "ucp",
-            "stars": 3429,
+            "stars": 3431,
             "topics": []
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
@@ -37,10 +37,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-06-17T01:24:46Z",
-            "open_issues": 182,
+            "open_issues": 185,
             "owner": "google-agentic-commerce",
             "repo": "AP2",
-            "stars": 3233,
+            "stars": 3234,
             "topics": []
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
@@ -61,7 +61,7 @@
             "open_issues": 146,
             "owner": "agentic-commerce-protocol",
             "repo": "agentic-commerce-protocol",
-            "stars": 1576,
+            "stars": 1577,
             "topics": []
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
@@ -84,11 +84,11 @@
             "id": 886826524,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T00:45:30Z",
+            "last_commit": "2026-10-18T00:50:31Z",
             "open_issues": 101,
             "owner": "stripe",
             "repo": "ai",
-            "stars": 1953,
+            "stars": 1958,
             "topics": [
               "ai",
               "gemini-cli-extension",
@@ -118,7 +118,7 @@
             "open_issues": 39,
             "owner": "paypal",
             "repo": "agent-toolkit",
-            "stars": 195,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-28T17:35:15.760Z"
@@ -210,7 +210,7 @@
                 "id": 505864478,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T03:42:44Z",
+                "last_commit": "2026-10-18T03:44:06Z",
                 "open_issues": 128,
                 "owner": "Shopify",
                 "repo": "cli",
@@ -267,10 +267,10 @@
                 "language": "Liquid",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T16:47:46Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "Shopify",
                 "repo": "dawn",
-                "stars": 3100,
+                "stars": 3102,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:35:15.760Z"
@@ -381,11 +381,11 @@
             "id": 234739976,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T07:51:03Z",
-            "open_issues": 252,
+            "last_commit": "2026-10-17T10:23:09Z",
+            "open_issues": 254,
             "owner": "medusajs",
             "repo": "medusa",
-            "stars": 36774,
+            "stars": 36788,
             "topics": [
               "ai-coding",
               "ai-tools",
@@ -415,10 +415,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-16T16:08:11Z",
-            "open_issues": 27,
+            "open_issues": 31,
             "owner": "bagisto",
             "repo": "bagisto",
-            "stars": 28247,
+            "stars": 28250,
             "topics": [
               "b2b-ecommerce",
               "blockchain-ecommerce",
@@ -457,10 +457,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-16T14:04:06Z",
-            "open_issues": 292,
+            "open_issues": 293,
             "owner": "saleor",
             "repo": "saleor",
-            "stars": 23446,
+            "stars": 23449,
             "topics": [
               "cart",
               "checkout",
@@ -496,11 +496,11 @@
             "id": 3314,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-16T21:52:43Z",
-            "open_issues": 178,
+            "last_commit": "2026-10-18T09:11:30Z",
+            "open_issues": 175,
             "owner": "spree",
             "repo": "spree",
-            "stars": 15760,
+            "stars": 15762,
             "topics": [
               "b2b-commerce",
               "e-commerce",
@@ -533,7 +533,7 @@
             "id": 136938012,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T15:42:09Z",
+            "last_commit": "2026-10-18T09:02:52Z",
             "open_issues": 213,
             "owner": "vendurehq",
             "repo": "vendure",
@@ -578,7 +578,7 @@
             "open_issues": 81,
             "owner": "vercel",
             "repo": "commerce",
-            "stars": 14308,
+            "stars": 14310,
             "topics": [
               "ecommerce",
               "nextjs",
@@ -646,7 +646,7 @@
             "open_issues": 49,
             "owner": "vuestorefront",
             "repo": "storefront-ui",
-            "stars": 2783,
+            "stars": 2785,
             "topics": [
               "ecommerce",
               "javascript",
@@ -711,11 +711,11 @@
             "id": 896335270,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-15T06:32:19Z",
-            "open_issues": 3087,
+            "last_commit": "2026-10-18T02:37:56Z",
+            "open_issues": 3052,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 96495,
+            "stars": 96546,
             "topics": [
               "ai",
               "mcp"
@@ -739,7 +739,7 @@
             "open_issues": 12,
             "owner": "julionc",
             "repo": "awesome-shopify",
-            "stars": 1296,
+            "stars": 1297,
             "topics": [
               "awesome",
               "awesome-list",
@@ -758,7 +758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T09:34:24.944Z",
+    "last_updated": "2026-10-18T09:46:31.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome agentic commerce resources — protocols, MCP servers, tools, apps, APIs and services for AI agents that shop, sell and transact. For store owners, developers, agencies and marketers.",
@@ -767,10 +767,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-07-20T06:57:02Z",
-      "open_issues": 121,
+      "open_issues": 123,
       "owner": "MentionNetwork",
       "repo": "awesome-agentic-commerce",
-      "stars": 63,
+      "stars": 64,
       "topics": [
         "acp",
         "agentic-ai",
